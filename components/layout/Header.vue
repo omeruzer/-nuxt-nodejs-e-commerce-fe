@@ -22,7 +22,7 @@
                   name=""
                   id=""
                   class="form-control"
-                  placeholder="Ara..."
+                  placeholder="Search..."
                 />
               </form>
             </div>

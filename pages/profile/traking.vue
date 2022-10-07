@@ -23,7 +23,7 @@
                 <input type="text" class="form-control" placeholder="Kargom Nerede?" />
               </div>
               <div>
-                <button class="btn btn-primary ml-2">Ara</button>
+                <button class="btn btn-primary ml-2">Search</button>
               </div>
             </div>
           </div>

@@ -3,7 +3,7 @@
     <div class="container-fluid">
       <div class="container">
         <div class="text d-flex justify-content-center align-items-center">
-          Büyük İndirimler
+          Best Discounts
         </div>
       </div>
     </div>
